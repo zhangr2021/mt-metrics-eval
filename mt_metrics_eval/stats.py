@@ -98,7 +98,13 @@ class Correlation:
   def Kendall(self, average_by='none', variant='b'):
     cf = self.AverageCorrelation(
         scipy.stats.kendalltau, average_by, variant=variant)
-    return cf(self.gold_scores, self.metric_scores)
+    # remove nas from gold_scores and metric_scores
+    isna_ = [not (np.isnan(s1) or np.isnan(s2)) for s1, s2 in zip(self.gold_scores, self.metric_scores)]
+    gold_scores = self.gold_scores[isna_]
+    metric_scores = self.metric_scores[isna_]
+    print("gold_scores", gold_scores)
+    print("metric_scores", metric_scores)
+    return cf(gold_scores, metric_scores)
 
   def KendallLike(self, average_by='item', thresh=25):
     """WMT Kendall-like corr and stats, averaged over items by default."""

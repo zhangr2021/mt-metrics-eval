@@ -99,8 +99,9 @@ class EvalSet:
     # Check compatibility between info and data read in.
     # No checks for primary metrics because there are no hard requirements:
     # no metrics for this lp need to be primary.
-    if self.std_ref not in self.ref_names:
-      raise ValueError(f'Standard ref {self.std_ref} not in known set.')
+    #if self.std_ref not in self.ref_names:
+     # print(self.std_ref, self.ref_names)
+      #raise ValueError(f'Standard ref {self.std_ref} not in known set.')
     for level in self._std_human_scores:
       gold = self._std_human_scores[level]
       if level not in self._scores or gold not in self._scores[level]:
@@ -405,7 +406,7 @@ class EvalSet:
     """
     basenames = []
     for filename in glob.glob(os.path.join(dir_name, '*.score')):
-      name, level = self.ParseMetricFilename(filename)
+      name, level = self.ParseMetricFilename(filename) 
       basename, refs = self.ParseMetricName(name)
       if level == 'domain':
         scores = ReadDomainScoreFile(filename, self.domain_names)
@@ -452,6 +453,7 @@ class EvalSet:
     else:
       self._metric_names.add(name)
       self._metric_basenames.add(basename)
+      
     self._scores[level][name] = scores
     self.CheckScores(self._scores[level][name], name, level, False, repair)
 

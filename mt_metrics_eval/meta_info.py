@@ -31,6 +31,19 @@ class MetaInfo:
   # For backward compability, baselines should be a subset of primary metrics.
   baseline_metrics: set[str] | None = None
 
+
+LITEVAL = MetaInfo('src', {'sys': 'mqm_score', 'seg': 'mqm_score'}, set(), set())
+
+LITEVAL_PRIMARIES = {
+    'gemba_all_literary', 'gemba_all_orig', 'comet_xl', 'comet_xxl',
+}
+
+LITEVAL_BASELINES = {
+    'gemba_all_literary', 'gemba_all_orig', 'comet_xl', 'comet_xxl',
+}
+
+
+
 WMT19 = MetaInfo('ref', {'sys': 'wmt-z', 'seg': 'wmt-raw'}, set(), set())
 WMT20 = MetaInfo('ref', {'sys': 'wmt-z', 'doc': 'wmt-raw', 'seg': 'wmt-raw'},
                  set(), set())
@@ -368,5 +381,6 @@ DATA = {
         'lt-en': WMT19,
         'ru-en': WMT19,
         'zh-en': WMT19,
-    }
+    },
+    'liteval': {"de-en": LITEVAL, "en-de": LITEVAL, "en-zh": LITEVAL, "de-zh": LITEVAL},
 }

@@ -1,0 +1,519 @@
+qwen2-beta-7b-chat -7.0
+human -12.0
+google-translate -7.0
+m2m -212.0
+deepl -37.0
+towerinstruct-7b-v0.2 -37.0
+gpt4o -7.0
+nllb 
+meta-llama-3-8b-instruct -87.0
+human -7.0
+gemma-1.1-7b-it -37.0
+deepl -12.0
+nllb -62.0
+m2m -38.0
+human -32.0
+human -12.0
+gemma-1.1-7b-it -37.0
+qwen2-beta-7b-chat -32.0
+google-translate -7.0
+towerinstruct-7b-v0.2 -61.0
+gpt4o -2.0
+meta-llama-3-8b-instruct -62.0
+nllb -62.0
+human -37.0
+deepl -37.0
+human -12.0
+google-translate -7.0
+m2m -106.0
+nllb -66.0
+deepl -31.0
+gpt4o -7.0
+gemma-1.1-7b-it -87.0
+m2m -61.0
+google-translate -7.0
+towerinstruct-7b-v0.2 -37.0
+human -12.0
+meta-llama-3-8b-instruct -61.0
+qwen2-beta-7b-chat -7.0
+human -7.0
+nllb -42.0
+meta-llama-3-8b-instruct -36.0
+deepl -12.0
+gpt4o -6.0
+qwen2-beta-7b-chat -7.0
+human -12.0
+gemma-1.1-7b-it -37.0
+towerinstruct-7b-v0.2 -37.0
+m2m -37.0
+google-translate -6.0
+human -12.0
+gpt4o -1.0
+human -7.0
+google-translate -1.0
+gemma-1.1-7b-it -56.0
+human -1.0
+qwen2-beta-7b-chat -6.0
+deepl -6.0
+m2m -32.0
+towerinstruct-7b-v0.2 -32.0
+meta-llama-3-8b-instruct -31.0
+nllb -36.0
+human -7.0
+gpt4o -7.0
+gemma-1.1-7b-it -37.0
+human -32.0
+deepl -7.0
+nllb -37.0
+meta-llama-3-8b-instruct -36.0
+towerinstruct-7b-v0.2 -37.0
+qwen2-beta-7b-chat -37.0
+m2m -37.0
+google-translate -7.0
+qwen2-beta-7b-chat -7.0
+gemma-1.1-7b-it -36.0
+human -6.0
+human -12.0
+nllb -161.0
+meta-llama-3-8b-instruct -111.0
+towerinstruct-7b-v0.2 -37.0
+m2m -7.0
+gpt4o -7.0
+google-translate -7.0
+deepl -12.0
+google-translate -11.0
+nllb -37.0
+m2m -12.0
+towerinstruct-7b-v0.2 -37.0
+human -7.0
+qwen2-beta-7b-chat -32.0
+deepl -7.0
+human -32.0
+gemma-1.1-7b-it -11.0
+gpt4o -7.0
+meta-llama-3-8b-instruct -12.0
+gpt4o -7.0
+google-translate -32.0
+deepl -32.0
+qwen2-beta-7b-chat -7.0
+towerinstruct-7b-v0.2 -36.0
+meta-llama-3-8b-instruct -62.0
+nllb -62.0
+human -7.0
+gemma-1.1-7b-it -111.0
+m2m -33.0
+human -32.0
+towerinstruct-7b-v0.2 -32.0
+gemma-1.1-7b-it -56.0
+human -12.0
+deepl -32.0
+google-translate -6.0
+nllb -62.0
+m2m -31.0
+gpt4o -7.0
+qwen2-beta-7b-chat -32.0
+meta-llama-3-8b-instruct -61.0
+human -12.0
+m2m -12.0
+gpt4o -7.0
+towerinstruct-7b-v0.2 -37.0
+human -7.0
+human -7.0
+deepl -11.0
+meta-llama-3-8b-instruct -37.0
+gemma-1.1-7b-it -37.0
+google-translate -7.0
+qwen2-beta-7b-chat -7.0
+nllb -37.0
+m2m -37.0
+qwen2-beta-7b-chat -7.0
+meta-llama-3-8b-instruct -87.0
+deepl -7.0
+nllb -68.0
+google-translate -12.0
+human -7.0
+gpt4o -7.0
+gemma-1.1-7b-it -37.0
+human -12.0
+towerinstruct-7b-v0.2 -61.0
+meta-llama-3-8b-instruct -92.0
+google-translate -12.0
+deepl -7.0
+human -7.0
+human -7.0
+nllb -87.0
+gpt4o -7.0
+qwen2-beta-7b-chat -7.0
+towerinstruct-7b-v0.2 -62.0
+m2m -61.0
+gemma-1.1-7b-it -37.0
+human -6.0
+qwen2-beta-7b-chat -1.0
+meta-llama-3-8b-instruct -107.0
+m2m -62.0
+deepl -1.0
+towerinstruct-7b-v0.2 -7.0
+google-translate -1.0
+gemma-1.1-7b-it -37.0
+human -7.0
+gpt4o -2.0
+nllb -37.0
+qwen2-beta-7b-chat 
+m2m 
+human 
+nllb 
+towerinstruct-7b-v0.2 
+human 
+meta-llama-3-8b-instruct 
+gpt4o 
+deepl 
+google-translate 
+gemma-1.1-7b-it 
+nllb -68.0
+towerinstruct-7b-v0.2 -37.0
+qwen2-beta-7b-chat -7.0
+human -37.0
+meta-llama-3-8b-instruct -62.0
+human -37.0
+gemma-1.1-7b-it -7.0
+m2m -62.0
+deepl -32.0
+gpt4o -7.0
+google-translate -6.0
+qwen2-beta-7b-chat -11.0
+gemma-1.1-7b-it -61.0
+nllb -42.0
+google-translate -32.0
+human -37.0
+m2m -37.0
+towerinstruct-7b-v0.2 -37.0
+deepl -7.0
+gpt4o -32.0
+human -32.0
+meta-llama-3-8b-instruct -62.0
+gpt4o -2.0
+human -6.0
+meta-llama-3-8b-instruct -86.0
+nllb -62.0
+towerinstruct-7b-v0.2 -37.0
+m2m -8.0
+deepl -6.0
+gemma-1.1-7b-it -7.0
+qwen2-beta-7b-chat -6.0
+human -32.0
+google-translate -7.0
+qwen2-beta-7b-chat -6.0
+google-translate -1.0
+human -7.0
+m2m -7.0
+human -12.0
+nllb -12.0
+towerinstruct-7b-v0.2 -7.0
+meta-llama-3-8b-instruct -37.0
+gpt4o -2.0
+gemma-1.1-7b-it -41.0
+deepl -1.0
+towerinstruct-7b-v0.2 -37.0
+human -7.0
+gpt4o -7.0
+nllb -37.0
+human -7.0
+google-translate -7.0
+gemma-1.1-7b-it -57.0
+deepl -2.0
+qwen2-beta-7b-chat -32.0
+meta-llama-3-8b-instruct -63.0
+m2m -61.0
+gemma-1.1-7b-it -37.0
+meta-llama-3-8b-instruct -37.0
+towerinstruct-7b-v0.2 -7.0
+deepl -7.0
+nllb -42.0
+gpt4o -7.0
+google-translate -7.0
+m2m -37.0
+human -7.0
+human -12.0
+qwen2-beta-7b-chat -7.0
+nllb -88.0
+gemma-1.1-7b-it -37.0
+human -7.0
+towerinstruct-7b-v0.2 -37.0
+deepl -7.0
+human -12.0
+m2m -37.0
+meta-llama-3-8b-instruct -38.0
+google-translate -2.0
+qwen2-beta-7b-chat -7.0
+gpt4o -12.0
+nllb -61.0
+m2m -36.0
+towerinstruct-7b-v0.2 -36.0
+qwen2-beta-7b-chat -31.0
+human -7.0
+deepl -12.0
+meta-llama-3-8b-instruct -12.0
+gemma-1.1-7b-it -37.0
+gpt4o -7.0
+google-translate -12.0
+nllb -61.0
+gemma-1.1-7b-it -11.0
+gpt4o -2.0
+deepl -6.0
+meta-llama-3-8b-instruct -6.0
+qwen2-beta-7b-chat -2.0
+google-translate -7.0
+m2m -37.0
+human -6.0
+towerinstruct-7b-v0.2 -36.0
+gemma-1.1-7b-it -32.0
+qwen2-beta-7b-chat -6.0
+towerinstruct-7b-v0.2 -32.0
+meta-llama-3-8b-instruct -56.0
+nllb -57.0
+gpt4o -6.0
+human -7.0
+deepl -6.0
+google-translate -31.0
+m2m -36.0
+qwen2-beta-7b-chat -32.0
+human -6.0
+google-translate -7.0
+deepl -2.0
+m2m -33.0
+nllb -36.0
+meta-llama-3-8b-instruct -62.0
+towerinstruct-7b-v0.2 -32.0
+gpt4o -7.0
+gemma-1.1-7b-it -37.0
+gemma-1.1-7b-it -82.0
+m2m -37.0
+towerinstruct-7b-v0.2 -37.0
+meta-llama-3-8b-instruct -116.0
+qwen2-beta-7b-chat -8.0
+deepl -11.0
+human -7.0
+google-translate -1.0
+gpt4o -2.0
+nllb -37.0
+towerinstruct-7b-v0.2 -37.0
+gpt4o -7.0
+gemma-1.1-7b-it -37.0
+google-translate -7.0
+nllb -66.0
+deepl -7.0
+qwen2-beta-7b-chat -7.0
+m2m -37.0
+human -7.0
+meta-llama-3-8b-instruct -57.0
+towerinstruct-7b-v0.2 -37.0
+deepl -7.0
+google-translate -6.0
+nllb -61.0
+gpt4o -6.0
+gemma-1.1-7b-it -62.0
+qwen2-beta-7b-chat -11.0
+meta-llama-3-8b-instruct -37.0
+human -7.0
+m2m -32.0
+meta-llama-3-8b-instruct 
+towerinstruct-7b-v0.2 
+gemma-1.1-7b-it 
+qwen2-beta-7b-chat 
+deepl -12.0
+google-translate -6.0
+human -12.0
+gpt4o -3.0
+m2m -41.0
+nllb -37.0
+towerinstruct-7b-v0.2 -37.0
+meta-llama-3-8b-instruct -86.0
+gemma-1.1-7b-it -37.0
+qwen2-beta-7b-chat -7.0
+google-translate -7.0
+m2m -37.0
+gpt4o -11.0
+nllb -62.0
+human -7.0
+deepl -7.0
+gemma-1.1-7b-it -37.0
+meta-llama-3-8b-instruct -61.0
+towerinstruct-7b-v0.2 -62.0
+qwen2-beta-7b-chat -1.0
+nllb -62.0
+deepl -37.0
+gpt4o -2.0
+m2m -37.0
+google-translate -7.0
+human -7.0
+gpt4o -12.0
+towerinstruct-7b-v0.2 -61.0
+gemma-1.1-7b-it -62.0
+m2m -41.0
+meta-llama-3-8b-instruct -7.0
+human -37.0
+deepl -32.0
+qwen2-beta-7b-chat -36.0
+nllb -61.0
+google-translate -8.0
+human -7.0
+deepl -2.0
+meta-llama-3-8b-instruct -67.0
+gpt4o -7.0
+m2m -62.0
+google-translate -1.0
+gemma-1.1-7b-it -87.0
+towerinstruct-7b-v0.2 -37.0
+nllb -161.0
+qwen2-beta-7b-chat -7.0
+towerinstruct-7b-v0.2 
+qwen2-beta-7b-chat 
+gemma-1.1-7b-it 
+meta-llama-3-8b-instruct 
+gpt4o -7.0
+deepl -32.0
+nllb -57.0
+m2m -37.0
+human -12.0
+google-translate -1.0
+towerinstruct-7b-v0.2 
+meta-llama-3-8b-instruct 
+qwen2-beta-7b-chat 
+gemma-1.1-7b-it 
+human -12.0
+gpt4o -11.0
+m2m -62.0
+google-translate -7.0
+deepl -36.0
+nllb -37.0
+meta-llama-3-8b-instruct 
+qwen2-beta-7b-chat 
+gemma-1.1-7b-it 
+towerinstruct-7b-v0.2 
+deepl -7.0
+human -6.0
+nllb -41.0
+google-translate -6.0
+gpt4o -7.0
+m2m -87.0
+meta-llama-3-8b-instruct 
+gemma-1.1-7b-it 
+towerinstruct-7b-v0.2 
+qwen2-beta-7b-chat 
+nllb -62.0
+m2m -67.0
+human -7.0
+deepl -7.0
+google-translate -7.0
+gpt4o -1.0
+human -12.0
+deepl -7.0
+google-translate -6.0
+gpt4o -6.0
+m2m -37.0
+meta-llama-3-8b-instruct -62.0
+gemma-1.1-7b-it -41.0
+towerinstruct-7b-v0.2 -36.0
+nllb -112.0
+qwen2-beta-7b-chat -32.0
+gemma-1.1-7b-it 
+meta-llama-3-8b-instruct 
+qwen2-beta-7b-chat 
+m2m -62.0
+google-translate -7.0
+gpt4o -2.0
+human -7.0
+deepl -7.0
+nllb -42.0
+nllb -36.0
+towerinstruct-7b-v0.2 -36.0
+qwen2-beta-7b-chat -6.0
+gpt4o -7.0
+google-translate -7.0
+gemma-1.1-7b-it -37.0
+m2m -62.0
+deepl -7.0
+human -7.0
+meta-llama-3-8b-instruct -87.0
+nllb -37.0
+human -12.0
+deepl -7.0
+gpt4o -7.0
+m2m -61.0
+google-translate -32.0
+gemma-1.1-7b-it 
+meta-llama-3-8b-instruct 
+qwen2-beta-7b-chat 
+towerinstruct-7b-v0.2 
+gemma-1.1-7b-it 
+qwen2-beta-7b-chat 
+meta-llama-3-8b-instruct 
+towerinstruct-7b-v0.2 
+nllb -42.0
+human -7.0
+m2m -37.0
+gpt4o -7.0
+human -7.0
+deepl -37.0
+human -7.0
+google-translate -7.0
+gemma-1.1-7b-it 
+qwen2-beta-7b-chat 
+towerinstruct-7b-v0.2 
+meta-llama-3-8b-instruct 
+nllb -37.0
+human -12.0
+deepl -31.0
+gpt4o -12.0
+human -12.0
+google-translate -7.0
+human -7.0
+m2m -61.0
+meta-llama-3-8b-instruct 
+gemma-1.1-7b-it 
+towerinstruct-7b-v0.2 
+qwen2-beta-7b-chat 
+m2m -62.0
+nllb -67.0
+google-translate -7.0
+deepl -37.0
+human -7.0
+human -7.0
+gpt4o -2.0
+human -12.0
+gemma-1.1-7b-it 
+meta-llama-3-8b-instruct 
+qwen2-beta-7b-chat 
+human -12.0
+towerinstruct-7b-v0.2 
+human -7.0
+google-translate -7.0
+nllb -66.0
+deepl -31.0
+human -12.0
+gpt4o -7.0
+m2m -36.0
+qwen2-beta-7b-chat 
+gemma-1.1-7b-it 
+towerinstruct-7b-v0.2 
+meta-llama-3-8b-instruct 
+human -7.0
+m2m -62.0
+gpt4o -7.0
+nllb -112.0
+human -12.0
+google-translate -7.0
+deepl -42.0
+human -12.0
+gemma-1.1-7b-it 
+meta-llama-3-8b-instruct 
+qwen2-beta-7b-chat 
+towerinstruct-7b-v0.2 
+m2m -42.0
+google-translate -12.0
+human -32.0
+human -7.0
+nllb -67.0
+deepl -37.0
+human -7.0
+gpt4o -12.0
