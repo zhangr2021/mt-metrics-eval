@@ -35,11 +35,23 @@ class MetaInfo:
 LITEVAL = MetaInfo('src', {'sys': 'mqm_score', 'seg': 'mqm_score'}, set(), set())
 
 LITEVAL_PRIMARIES = {
-    'gemba_all_literary', 'gemba_all_orig', 'comet_xl', 'comet_xxl',
+    'gemba_all_literary', 'gemba_all_orig', 'comet_xl', 'comet_xxl', 'prometheus', 
+    'quar_full_20250320_2116568550', 'quar_xxen_20250320_21051212000',
+       'quar_fr_en_20250320_19440812300', 'half_xxen_20250320_16390712500',
+       'quar_xxen_20250320_21051212150', 'half_full_20250321_11562622350',
+       'half_full_20250321_11562610050', 'half_fr_en_20250320_16162112500',
+       'half_xxen_20250320_1639076150', 'quar_fr_en_20250320_19440812150',
+       'quar_full_20250320_21165612000', 'half_fr_en_20250320_1616213150'
 }
 
 LITEVAL_BASELINES = {
-    'gemba_all_literary', 'gemba_all_orig', 'comet_xl', 'comet_xxl',
+    'gemba_all_literary', 'gemba_all_orig', 'comet_xl', 'comet_xxl', 
+    'quar_full_20250320_2116568550', 'quar_xxen_20250320_21051212000',
+       'quar_fr_en_20250320_19440812300', 'half_xxen_20250320_16390712500',
+       'quar_xxen_20250320_21051212150', 'half_full_20250321_11562622350',
+       'half_full_20250321_11562610050', 'half_fr_en_20250320_16162112500',
+       'half_xxen_20250320_1639076150', 'quar_fr_en_20250320_19440812150',
+       'quar_full_20250320_21165612000', 'half_fr_en_20250320_1616213150'
 }
 
 
